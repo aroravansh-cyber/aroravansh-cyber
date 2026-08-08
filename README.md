@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:EF4444&height=200&section=header&text=Vansh%20Arora&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20Researcher%20%C2%B7%20Red%20Teamer%20%C2%B7%20Ethical%20Hacker&descAlignY=55&descSize=16&descColor=ffffff" />
 <!-- ================= TYPING ANIMATION (normal font, no monospace) ================= -->
 <!-- Edit the "lines=" text (separated by ;) to change what types out -->
-<img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=900&color=FFFF66&center=true&vCenter=true&width=650&lines=B.Tech+Cybersecurity+%40+VMSBUTU%2C+Dehradun;Exploring+AI+Red+Teaming+%26+LLM+Pentesting;Ethical+%40+Hacker" />
+<img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=900&color=FFFF66&center=true&vCenter=true&width=650&lines=B.Tech+Cybersecurity+%40+VMSBUTU%2C+Dehradun;Exploring+AI+Red+Teaming+%26+LLM+Pentesting;Ethical+Hacker" />
 
 <br/>
 
