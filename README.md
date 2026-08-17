@@ -73,7 +73,7 @@
 
 ## 📊 GitHub Activity
 
-<img src="https://streak-stats.demolab.com/?user=aroravansh00123-eng&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=aroravansh-cyber&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
@@ -84,19 +84,19 @@
 
 <td align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aroravansh00123-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=aroravansh-cyber&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/github/followers/aroravansh00123-eng?label=Followers&style=for-the-badge&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/aroravansh-cyber?label=Followers&style=for-the-badge&color=0e75b6" />
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/github/stars/aroravansh00123-eng?style=for-the-badge&color=0e75b6" />
+<img src="https://img.shields.io/github/stars/aroravansh-cyber?style=for-the-badge&color=0e75b6" />
 
 </td>
 
@@ -111,11 +111,19 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroravansh-cyber&theme=react-dark&hide_border=true&area=true" width="100%" />
+<a href="https://github.com/aroravansh-cyber">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aroravansh-cyber&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
+</a>
 
 </div>
+
+<br>
 
 
 <br/>
