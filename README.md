@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- ================= HEADER ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:DC2626&height=220&section=header&text=Vansh%20Arora&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Ethical%20Hacking&descAlignY=58&descSize=17&descColor=FCA5A5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,25:450A0A,55:7F1D1D,80:EA580C,100:EF4444&height=230&section=header&text=Vansh%20Arora&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=CYBERSECURITY%20%7C%20AI%20SECURITY%20%7C%20ETHICAL%20HACKING&descAlignY=58&descSize=17&descColor=FCA5A5" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=750&lines=B.Tech+Cybersecurity+Student;Ethical+Hacking+%7C+Red+Teaming;AI+Security+%7C+LLM+Security;Python+%7C+Linux+%7C+Security+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=800&lines=B.Tech+Cybersecurity+Student;Ethical+Hacking+%7C+Red+Teaming;AI+Security+%7C+LLM+Security;Python+%7C+Linux+%7C+Security+Automation" />
 
 </div>
 
@@ -16,15 +14,15 @@
 
 ## 🧠 About Me
 
-I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cybersecurity, ethical hacking, red teaming, and AI security.
+I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on building practical skills in cybersecurity, ethical hacking, red teaming, and AI security.
 
-- 🎓 B.Tech Cybersecurity
-- 🔐 Ethical Hacking & Penetration Testing
-- 🟥 Red Teaming & Offensive Security
-- 🤖 AI Security & LLM Security
-- 🐧 Linux & Security Tooling
-- 🐍 Python Security Automation
-- 🌐 Web & Network Security
+- 🎓 **B.Tech Cybersecurity**
+- 🔐 **Ethical Hacking & Penetration Testing**
+- 🟥 **Red Teaming & Offensive Security**
+- 🤖 **AI Security & LLM Security**
+- 🐧 **Linux & Security Tooling**
+- 🐍 **Python Security Automation**
+- 🌐 **Web & Network Security**
 
 ---
 
@@ -38,55 +36,85 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 ---
 
-## 🔧 Development & Tools
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark&perline=6" />
 
-</div>
+<br/><br/>
 
----
-
-## 🔐 Cybersecurity Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
-
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=4682B4" />
-
-<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
-
-<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=2596CD" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-
-<img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge&logo=databricks&logoColor=FFFFFF" />
-
-<img src="https://img.shields.io/badge/BloodHound-111111?style=for-the-badge&logo=neo4j&logoColor=FF4B4B" />
-
-<img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=FFFFFF" />
-
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-111111?style=for-the-badge&logo=mitre&logoColor=EF4444" />
+<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Profile Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aroravansh-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://komarev.com/ghpvc/?username=aroravansh-cyber&label=PROFILE%20VIEWS&color=EF4444&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/aroravansh-cyber?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/github/stars/aroravansh-cyber?label=TOTAL%20STARS&style=for-the-badge&color=F97316&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<h2>🔥 GitHub Streak</h2>
+
+<img width="100%" src="./profile/streak.svg" alt="GitHub Streak" />
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<h2>🚀 Top Projects</h2>
+
+<a href="https://github.com/aroravansh-cyber/Net-Pulse">
+<img src="https://img.shields.io/badge/Net--Pulse-EF4444?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=aroravansh-cyber&theme=dark&hide_border=true&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" />
+<a href="https://github.com/aroravansh-cyber/Python-Based-Network-Security-IP-Intelligence-Tool">
+<img src="https://img.shields.io/badge/Network%20Security-F97316?style=for-the-badge&logo=python&logoColor=white" />
+</a>
 
-</div>
+<br/><br/>
+
+<a href="https://github.com/aroravansh-cyber/Password-Hashing">
+<img src="https://img.shields.io/badge/Password%20Hashing-B91C1C?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/aroravansh-cyber/AI-chatbot-in-python">
+<img src="https://img.shields.io/badge/AI%20Chatbot-DC2626?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -94,7 +122,7 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroravansh-cyber&bg_color=0D1117&color=EF4444&line=EF4444&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroravansh-cyber&bg_color=0A0A0A&color=FCA5A5&line=EF4444&point=F97316&area=true&area_color=450A0A&hide_border=true" />
 
 </div>
 
@@ -104,16 +132,20 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vansh-arora-52a5903a2">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+<a href="https://github.com/aroravansh-cyber">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/eng-van-sh-arora">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:arora.vansh.00123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://vansh-arora-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=netlify&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
 </div>
@@ -122,18 +154,10 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aroravansh-cyber&label=PROFILE%20VIEWS&color=EF4444&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=500&lines=Learn.+Build.+Secure.+;Break.+Analyze.+Defend.+;Think.+Hack.+Secure." />
 
-<img src="https://img.shields.io/github/followers/aroravansh-cyber?label=FOLLOWERS&style=for-the-badge&color=EF4444&logo=github" />
+<br/><br/>
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:DC2626&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,25:F97316,55:B91C1C,80:450A0A,100:0A0A0A&height=130&section=footer" />
 
 </div>
