@@ -63,7 +63,6 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 </div>
 
 ---
-
 <table>
 <tr>
 
@@ -71,7 +70,7 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 <h2>🔥 GitHub Streak</h2>
 
-<img width="100%" src="./profile/streak.svg" alt="GitHub Streak" />
+<img src="./profile/streak.svg" width="420" alt="GitHub Streak">
 
 </td>
 
@@ -79,25 +78,26 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 <h2>🚀 Top Projects</h2>
 
-<a href="https://github.com/aroravansh-cyber/Net-Pulse"><img src="https://img.shields.io/badge/Net--Pulse-EF4444?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/aroravansh-cyber/Net-Pulse">
+<img src="https://img.shields.io/badge/Net--Pulse-EF4444?style=for-the-badge&logo=github&logoColor=white">
+</a><br>
 
-<br>
+<a href="https://github.com/aroravansh-cyber/Python-Based-Network-Security-IP-Intelligence-Tool">
+<img src="https://img.shields.io/badge/Network%20Security-F97316?style=for-the-badge&logo=python&logoColor=white">
+</a><br>
 
-<a href="https://github.com/aroravansh-cyber/Python-Based-Network-Security-IP-Intelligence-Tool"><img src="https://img.shields.io/badge/Network%20Security-F97316?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://github.com/aroravansh-cyber/Password-Hashing">
+<img src="https://img.shields.io/badge/Password%20Hashing-B91C1C?style=for-the-badge&logo=python&logoColor=white">
+</a><br>
 
-<br>
-
-<a href="https://github.com/aroravansh-cyber/Password-Hashing"><img src="https://img.shields.io/badge/Password%20Hashing-B91C1C?style=for-the-badge&logo=python&logoColor=white" /></a>
-
-<br>
-
-<a href="https://github.com/aroravansh-cyber/AI-chatbot-in-python"><img src="https://img.shields.io/badge/AI%20Chatbot-DC2626?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://github.com/aroravansh-cyber/AI-chatbot-in-python">
+<img src="https://img.shields.io/badge/AI%20Chatbot-DC2626?style=for-the-badge&logo=python&logoColor=white">
+</a>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## 📈 Contribution Graph
