@@ -1,133 +1,139 @@
 <div align="center">
 
-<!-- ================= HEADER BANNER ================= -->
+<!-- ================= HEADER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:EF4444&height=200&section=header&text=Vansh%20Arora&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20Researcher%20%C2%B7%20Red%20Teamer%20%C2%B7%20Ethical%20Hacker&descAlignY=55&descSize=16&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:DC2626&height=220&section=header&text=Vansh%20Arora&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Ethical%20Hacking&descAlignY=58&descSize=17&descColor=FCA5A5" />
 
-<!-- ================= TYPING ANIMATION ================= -->
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=900&color=FFFF66&center=true&vCenter=true&width=650&lines=B.Tech+Cybersecurity+%40+VMSBUTU%2C+Dehradun;Exploring+AI+Red+Teaming+%26+LLM+Pentesting;Ethical+Hacker" />
-
-<br/><br/>
-
-<!-- ================= SOCIAL / CONTACT ================= -->
-
-<a href="https://www.linkedin.com/in/vansh-arora-52a5903a2">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:arora.vansh.00123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<a href="https://vansh-arora-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=750&lines=B.Tech+Cybersecurity+Student;Ethical+Hacking+%7C+Red+Teaming;AI+Security+%7C+LLM+Security;Python+%7C+Linux+%7C+Security+Automation" />
 
 </div>
 
 <br/>
 
-<!-- ================= ABOUT ================= -->
+---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech Cybersecurity student at **VMSBUTU, Dehradun**
-- 🔐 Exploring **AI Red Teaming** and **LLM Pentesting**
-- 📚 Studying **OWASP LLM Top 10** and **MITRE ATLAS**
-- 💻 Building projects in **Python, C++, JavaScript and Web Technologies**
-- 🐧 Working with **Linux and Cybersecurity Tools**
+I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cybersecurity, ethical hacking, red teaming, and AI security.
 
-<br/>
+- 🎓 B.Tech Cybersecurity
+- 🔐 Ethical Hacking & Penetration Testing
+- 🟥 Red Teaming & Offensive Security
+- 🤖 AI Security & LLM Security
+- 🐧 Linux & Security Tooling
+- 🐍 Python Security Automation
+- 🌐 Web & Network Security
 
-<!-- ================= TECH STACK ================= -->
+---
+
+## 💻 Programming
 
 <div align="center">
 
-## 🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash&theme=dark&perline=4" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/BloodHound-FF4B4B?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-EF4444?style=for-the-badge&logo=mitre&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,sql&theme=dark&perline=7" />
 
 </div>
 
-<br/>
+---
 
-<!-- ================= GITHUB ACTIVITY ================= -->
+## 🔧 Development & Tools
 
 <div align="center">
 
-## 📊 GitHub Activity
-
-<img src="https://streak-stats.demolab.com/?user=aroravansh-cyber&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<!-- ================= PROFILE STATS ================= -->
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aroravansh-cyber&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/github/followers/aroravansh-cyber?label=Followers&style=for-the-badge&color=0e75b6" />
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/github/stars/aroravansh-cyber?style=for-the-badge&color=0e75b6" />
-
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark&perline=6" />
 
 </div>
 
-<br/>
+---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+## 🔐 Cybersecurity Tools
 
 <div align="center">
 
-## 📈 GitHub Contribution Graph
+<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
 
-<a href="https://github.com/aroravansh-cyber">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aroravansh-cyber&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=4682B4" />
+
+<img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+
+<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=2596CD" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+
+<img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge&logo=databricks&logoColor=FFFFFF" />
+
+<img src="https://img.shields.io/badge/BloodHound-111111?style=for-the-badge&logo=neo4j&logoColor=FF4B4B" />
+
+<img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=FFFFFF" />
+
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-111111?style=for-the-badge&logo=mitre&logoColor=EF4444" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aroravansh-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=aroravansh-cyber&theme=dark&hide_border=true&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroravansh-cyber&bg_color=0D1117&color=EF4444&line=EF4444&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vansh-arora-52a5903a2">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
+
+<a href="mailto:arora.vansh.00123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
+
+<a href="https://vansh-arora-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=netlify&logoColor=FFFFFF" />
 </a>
 
 </div>
 
-<br>
+<br/>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aroravansh-cyber&label=PROFILE%20VIEWS&color=EF4444&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/aroravansh-cyber?label=FOLLOWERS&style=for-the-badge&color=EF4444&logo=github" />
+
+</div>
 
 <br/>
 
-<!-- ================= FOOTER ================= -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:EF4444&height=100&section=footer" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:DC2626&height=120&section=footer" />
+
+</div>
