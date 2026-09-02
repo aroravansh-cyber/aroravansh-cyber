@@ -100,10 +100,12 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 </table>
 ---
 
-## 📈 Contribution Graph
+<h2 align="center">Contribution Graph</h2>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroravansh-cyber&bg_color=0A0A0A&color=FCA5A5&line=EF4444&point=F97316&area=true&area_color=450A0A&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/aroravansh-cyber/DSA/output/github-contribution-grid-snake-dark.svg" width="100%">
+
 </div>
 
 ---
