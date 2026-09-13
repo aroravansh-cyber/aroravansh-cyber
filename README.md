@@ -100,16 +100,6 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 </table>
 ---
 
-<h2 align="center">Contribution Graph</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aroravansh-cyber/DSA/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
