@@ -8,21 +8,20 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cybersecurity, ethical hacking, red teaming, and AI security.
 
-- 🎓 **B.Tech Cybersecurity**
-- 🔐 **Ethical Hacking & Penetration Testing**
-- 🟥 **Red Teaming & Offensive Security**
-- 🤖 **AI Security & LLM Security**
-- 🐧 **Linux & Security Tooling**
-- 🐍 **Python Security Automation**
-- 🌐 **Web & Network Security**
+-  **B.Tech Cybersecurity**
+-  **Ethical Hacking & Penetration Testing**
+-  **Red Teaming & Offensive Security**
+-  **Linux & Security Tooling**
+-  **Python Security Automation**
+-  **Web & Network Security**
 
 ---
 
-## 💻 Programming
+## Programming
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,sql&theme=dark&perline=7" />
@@ -30,7 +29,7 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <div align="center">
 
@@ -54,7 +53,7 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 ---
 
-## 📊 Profile Analytics
+## Profile Analytics
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aroravansh-cyber&label=PROFILE%20VIEWS&color=EF4444&style=for-the-badge" />
@@ -68,7 +67,7 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 <td width="50%" align="center" valign="middle">
 
-<h2>🔥 GitHub Streak</h2>
+<h2> GitHub Streak</h2>
 
 <img src="./profile/streak.svg" width="420" alt="GitHub Streak">
 
@@ -76,7 +75,7 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 
 <td width="50%" align="center" valign="middle">
 
-<h2>🚀 Top Projects</h2>
+<h2> Top Projects</h2>
 
 <a href="https://github.com/aroravansh-cyber/Net-Pulse">
 <img src="https://img.shields.io/badge/Net--Pulse-EF4444?style=for-the-badge&logo=github&logoColor=white">
@@ -100,7 +99,7 @@ I'm **Vansh Arora**, a B.Tech Cybersecurity student focused on practical cyberse
 </table>
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
